@@ -87,6 +87,22 @@ Large-blast-radius strategy, org, customer, and board narrative workflows.
 - `market-and-board-narrative`
 - `leadership-learning-loop`
 
+
+### Tier 5: Mega Manager
+
+AI-native management workflows for leaders managing portfolios of humans, agents, workflows, memory, evals, and governance.
+
+- `agent-workforce-architecture`
+- `agent-delegation-brief`
+- `agent-output-review`
+- `agent-command-center`
+- `agent-performance-management`
+- `context-memory-ops`
+- `agent-risk-governance`
+- `human-agent-team-design`
+- `agent-eval-design`
+- `agent-improvement-backlog`
+
 ## Leadership boundary
 
 All skills obey the same boundary:
