@@ -1,0 +1,134 @@
+---
+name: staff-meeting-designer
+description: Designs a staff or team meeting that prioritizes decisions, risks, and alignment over status theatre. Use when preparing recurring leadership meetings, team meetings, operating reviews, or when a meeting needs to be cut, redesigned, or made decision-oriented.
+license: MIT
+compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+metadata:
+  author: Stephen Rogan
+  version: "1.0.0"
+  tier: tier-1-manager-os
+  role: Cadence owner
+  cadence: weekly
+---
+
+# Staff Meeting Designer
+
+## Overview
+
+Use this skill to support the leader as **Cadence owner**. A meeting agenda that uses group time only where interaction, conflict, or decision-making is required.
+
+This skill is HUMAN+ by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
+
+## When to Use
+
+Run this skill when:
+
+- Weekly staff meeting is due
+- Recurring meeting feels noisy, stale, or status-heavy
+- Important decisions lack a clear forum
+
+Do not use it as a substitute for legal, HR, finance, security, medical, or executive approval. If the workflow affects employment, compensation, customer commitments, external messaging, or sensitive personal data, prepare the packet and stop for human review.
+
+## Inputs
+
+Ask for or gather:
+
+- Current priorities and metrics
+- Open decisions and blockers
+- Risks, escalations, and cross-functional dependencies
+- Previous action items and owner updates
+
+If inputs are missing, proceed with explicit assumptions and label confidence. Do not invent private context, motives, or facts.
+
+## Workflow
+
+Follow this sequence:
+
+1. Classify topics as inform, discuss, decide, or remove
+2. Move pure status to pre-read
+3. Put highest-consequence decisions first
+4. Assign owner, desired outcome, and timebox for each item
+5. End with action and decision log updates
+
+Before finalizing, run the boundary check: what is evidence, what is interpretation, what is a recommendation, and what must remain a human decision?
+
+## Output Format
+
+Produce a concise, decision-ready artifact using this structure:
+
+```markdown
+# Staff Meeting Designer
+
+## Situation
+[Brief context and why this workflow is being run.]
+
+## Evidence and Signals
+- Fact:
+- Pattern:
+- Hypothesis, confidence:
+
+## Recommended Focus
+1. [Highest leverage focus]
+2. [Second focus]
+3. [Third focus, optional]
+
+## Working Artifact
+[Agenda, memo, brief, plan, map, script, or tracker depending on the workflow.]
+
+## Human Decisions Required
+- [Decision/action the agent must not take.]
+
+## Follow-Up
+- Owner:
+- Date:
+- Success signal:
+```
+
+Expected deliverables:
+
+- Meeting brief
+- Agenda with timeboxes
+- Decision list
+- Pre-read request
+- Action log
+
+See `assets/output-template.md` for a reusable version.
+
+## Human Decision Boundary
+
+The agent may prepare, synthesize, compare, draft, and track. The agent must not cross these boundaries:
+
+- Do not preserve meetings out of habit
+- Do not bury conflict in status updates
+- Leader decides what deserves live group attention
+
+Stop and ask for explicit approval before sending messages, changing employment status, making customer promises, publishing, sharing sensitive information, or committing budget/resources.
+
+## Quality Bar
+
+A world-class output for this skill:
+
+- Separates facts, interpretations, hypotheses, and recommendations.
+- Names uncertainty and missing context instead of hiding it.
+- Produces an artifact a busy leader can use immediately.
+- Reduces avoidance, ambiguity, rework, or decision drift.
+- Makes the human judgment boundary visible.
+- Includes concrete follow-up with owner, date, and success signal where applicable.
+
+## Failure Modes
+
+Watch for these mistakes:
+
+- Overconfident claims from thin notes or sentiment.
+- Generic management advice with no artifact.
+- Automating sensitive judgment instead of preparing it.
+- Producing too many options without a recommended default.
+- Treating leadership as text generation rather than accountability.
+
+## References
+
+- Andy Grove, High Output Management: process and mission-oriented meetings
+- Atlassian Team Playbook: meeting discipline
+- Lencioni: conflict and commitment in teams
+
+For the shared methodology spine, see `../../docs/SOURCE-SPINE.md`.
