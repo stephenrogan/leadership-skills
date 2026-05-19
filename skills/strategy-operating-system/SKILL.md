@@ -1,8 +1,8 @@
 ---
 name: strategy-operating-system
-description: Turns strategy into an operating system with priorities, bets, decision calendar, metrics, operating cadence, owner map, risks, and kill criteria. Use for quarterly planning, annual planning, strategic resets, or converting executive direction into management rhythm.
+description: "Turns strategy into an operating system with priorities, bets, decision calendar, metrics, operating cadence, owner map, risks, and kill criteria. Use for quarterly planning, annual planning, strategic resets, or converting executive direction into management rhythm."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

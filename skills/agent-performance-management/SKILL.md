@@ -1,8 +1,8 @@
 ---
 name: agent-performance-management
-description: Evaluates AI agent performance over time using task outcomes, acceptance rate, revision causes, error patterns, latency, cost, risk incidents, and user trust. Use when managing AI workers, agent workflows, or autonomous loops as part of a leadership operating system.
+description: "Evaluates AI agent performance over time using task outcomes, acceptance rate, revision causes, error patterns, latency, cost, risk incidents, and user trust. Use when managing AI workers, agent workflows, or autonomous loops as part of a leadership operating system."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

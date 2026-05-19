@@ -1,8 +1,8 @@
 ---
 name: performance-cycle
-description: Assembles fair performance review or improvement-cycle material by organizing evidence against role expectations, strengths, gaps, support actions, and follow-up criteria. Use for review cycles, repeated misses, growth plans, or performance concern preparation.
+description: "Assembles fair performance review or improvement-cycle material by organizing evidence against role expectations, strengths, gaps, support actions, and follow-up criteria. Use for review cycles, repeated misses, growth plans, or performance concern preparation."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

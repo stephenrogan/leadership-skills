@@ -1,8 +1,8 @@
 ---
 name: decision-memo
-description: Creates a concise decision memo with context, decision required, options, tradeoffs, assumptions, dissent, recommendation, owner, and revisit criteria. Use when a leadership decision has ambiguity, cross-functional impact, material risk, or is likely to be reopened later.
+description: "Creates a concise decision memo with context, decision required, options, tradeoffs, assumptions, dissent, recommendation, owner, and revisit criteria. Use when a leadership decision has ambiguity, cross-functional impact, material risk, or is likely to be reopened later."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

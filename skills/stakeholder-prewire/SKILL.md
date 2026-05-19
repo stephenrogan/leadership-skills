@@ -1,8 +1,8 @@
 ---
 name: stakeholder-prewire
-description: Builds a stakeholder prewire plan with influence map, likely objections, conversation sequence, audience-specific framing, decision asks, and alignment tracker. Use before cross-functional proposals, executive decisions, process changes, or politically sensitive initiatives.
+description: "Builds a stakeholder prewire plan with influence map, likely objections, conversation sequence, audience-specific framing, decision asks, and alignment tracker. Use before cross-functional proposals, executive decisions, process changes, or politically sensitive initiatives."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

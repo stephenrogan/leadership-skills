@@ -1,8 +1,8 @@
 ---
 name: org-design-options
-description: Generates organisation design options with strategy fit, customer segmentation, capacity, spans, roles, tradeoffs, transition risks, and communication implications. Use when growth, churn, margin, coverage, or strategy changes require rethinking team structure.
+description: "Generates organisation design options with strategy fit, customer segmentation, capacity, spans, roles, tradeoffs, transition risks, and communication implications. Use when growth, churn, margin, coverage, or strategy changes require rethinking team structure."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

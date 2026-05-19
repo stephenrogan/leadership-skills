@@ -1,8 +1,8 @@
 ---
 name: onboarding-ramp
-description: Builds a 30/60/90 onboarding and ramp plan with learning path, stakeholder map, early wins, role expectations, check-ins, and risk signals. Use for new hires, promoted managers, internal transfers, or leaders entering a new scope.
+description: "Builds a 30/60/90 onboarding and ramp plan with learning path, stakeholder map, early wins, role expectations, check-ins, and risk signals. Use for new hires, promoted managers, internal transfers, or leaders entering a new scope."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

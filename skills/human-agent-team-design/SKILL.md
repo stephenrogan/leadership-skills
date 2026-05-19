@@ -1,8 +1,8 @@
 ---
 name: human-agent-team-design
-description: Designs how humans and AI agents collaborate inside a team, including roles, handoffs, rituals, shared artifacts, escalation norms, trust-building, and anti-patterns. Use when a manager is turning a conventional team into a human-agent operating unit.
+description: "Designs how humans and AI agents collaborate inside a team, including roles, handoffs, rituals, shared artifacts, escalation norms, trust-building, and anti-patterns. Use when a manager is turning a conventional team into a human-agent operating unit."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

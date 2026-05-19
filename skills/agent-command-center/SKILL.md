@@ -1,8 +1,8 @@
 ---
 name: agent-command-center
-description: Creates a command-center view for managing multiple AI agents and human-agent workflows, including active work, owners, state, blockers, quality signals, risk level, approvals, and next decisions. Use when a leader needs visibility across an agent-powered operating system.
+description: "Creates a command-center view for managing multiple AI agents and human-agent workflows, including active work, owners, state, blockers, quality signals, risk level, approvals, and next decisions. Use when a leader needs visibility across an agent-powered operating system."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

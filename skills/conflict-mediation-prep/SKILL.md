@@ -1,8 +1,8 @@
 ---
 name: conflict-mediation-prep
-description: Prepares a neutral conflict mediation plan by separating facts, interpretations, interests, stakes, possible agreements, conversation structure, and follow-up commitments. Use when two people, teams, or functions are stuck in recurring tension or blame.
+description: "Prepares a neutral conflict mediation plan by separating facts, interpretations, interests, stakes, possible agreements, conversation structure, and follow-up commitments. Use when two people, teams, or functions are stuck in recurring tension or blame."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

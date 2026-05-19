@@ -1,8 +1,8 @@
 ---
 name: weekly-leadership-pack
-description: Synthesizes the weekly leadership picture across metrics, risks, people, customers, priorities, and decisions into a one-page operating brief. Use before weekly business reviews, leadership team meetings, Monday planning, or Friday retrospectives.
+description: "Synthesizes the weekly leadership picture across metrics, risks, people, customers, priorities, and decisions into a one-page operating brief. Use before weekly business reviews, leadership team meetings, Monday planning, or Friday retrospectives."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

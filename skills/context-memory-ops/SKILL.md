@@ -1,8 +1,8 @@
 ---
 name: context-memory-ops
-description: Designs context, memory, and knowledge flows for agent-managed work: what agents should know, retrieve, remember, forget, cite, and never store. Use when agent quality depends on durable context, sensitive information boundaries, or cross-session continuity.
+description: "Designs context, memory, and knowledge flows for agent-managed work: what agents should know, retrieve, remember, forget, cite, and never store. Use when agent quality depends on durable context, sensitive information boundaries, or cross-session continuity."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

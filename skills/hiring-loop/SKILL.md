@@ -1,8 +1,8 @@
 ---
 name: hiring-loop
-description: Creates a structured hiring loop with role scorecard, competencies, interview plan, question bank, evidence rubric, debrief packet, and bias checks. Use when opening a role, designing interviews, consolidating feedback, or preparing a hire/no-hire debrief.
+description: "Creates a structured hiring loop with role scorecard, competencies, interview plan, question bank, evidence rubric, debrief packet, and bias checks. Use when opening a role, designing interviews, consolidating feedback, or preparing a hire/no-hire debrief."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

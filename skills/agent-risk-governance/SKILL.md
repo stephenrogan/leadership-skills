@@ -1,8 +1,8 @@
 ---
 name: agent-risk-governance
-description: Creates governance for AI agents with risk classes, approval gates, audit logs, access controls, red lines, incident response, and rollback rules. Use before deploying agents into leadership, customer, people, financial, or external-facing workflows.
+description: "Creates governance for AI agents with risk classes, approval gates, audit logs, access controls, red lines, incident response, and rollback rules. Use before deploying agents into leadership, customer, people, financial, or external-facing workflows."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

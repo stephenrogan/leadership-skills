@@ -1,8 +1,8 @@
 ---
 name: agent-eval-design
-description: Designs practical evals for leadership and management agent skills, including realistic prompts, expected outputs, assertions, negative tests, boundary tests, and human grading rubrics. Use when creating or improving agent skills, workflows, or AI worker scorecards.
+description: "Designs practical evals for leadership and management agent skills, including realistic prompts, expected outputs, assertions, negative tests, boundary tests, and human grading rubrics. Use when creating or improving agent skills, workflows, or AI worker scorecards."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

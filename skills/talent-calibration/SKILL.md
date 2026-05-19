@@ -1,8 +1,8 @@
 ---
 name: talent-calibration
-description: Prepares talent calibration material by assembling performance evidence, scope, growth trajectory, readiness hypotheses, risks, and development actions. Use before talent reviews, promotion discussions, succession conversations, or leadership bench planning.
+description: "Prepares talent calibration material by assembling performance evidence, scope, growth trajectory, readiness hypotheses, risks, and development actions. Use before talent reviews, promotion discussions, succession conversations, or leadership bench planning."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

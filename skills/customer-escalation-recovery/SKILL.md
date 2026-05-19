@@ -1,8 +1,8 @@
 ---
 name: customer-escalation-recovery
-description: Builds an executive customer escalation recovery brief with timeline, commitments, stakeholders, risk exposure, root-cause hypotheses, response plan, and approval-required concessions. Use for major customer escalations, renewal threats, executive complaints, or service failures.
+description: "Builds an executive customer escalation recovery brief with timeline, commitments, stakeholders, risk exposure, root-cause hypotheses, response plan, and approval-required concessions. Use for major customer escalations, renewal threats, executive complaints, or service failures."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

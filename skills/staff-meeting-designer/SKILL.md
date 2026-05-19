@@ -1,8 +1,8 @@
 ---
 name: staff-meeting-designer
-description: Designs a staff or team meeting that prioritizes decisions, risks, and alignment over status theatre. Use when preparing recurring leadership meetings, team meetings, operating reviews, or when a meeting needs to be cut, redesigned, or made decision-oriented.
+description: "Designs a staff or team meeting that prioritizes decisions, risks, and alignment over status theatre. Use when preparing recurring leadership meetings, team meetings, operating reviews, or when a meeting needs to be cut, redesigned, or made decision-oriented."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

@@ -1,8 +1,8 @@
 ---
 name: agent-workforce-architecture
-description: Designs a human-plus-agent workforce architecture with roles, work classes, autonomy levels, escalation paths, tool access, memory boundaries, and operating cadence. Use when a leader wants to scale management leverage through AI agents without creating chaos or shadow automation.
+description: "Designs a human-plus-agent workforce architecture with roles, work classes, autonomy levels, escalation paths, tool access, memory boundaries, and operating cadence. Use when a leader wants to scale management leverage through AI agents without creating chaos or shadow automation."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

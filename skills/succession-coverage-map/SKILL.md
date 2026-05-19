@@ -1,8 +1,8 @@
 ---
 name: succession-coverage-map
-description: Maps critical roles, coverage gaps, bench readiness, vacancy risk, ramp time, and development moves for succession and continuity planning. Use for quarterly planning, leadership transitions, key-person risk, or org resilience reviews.
+description: "Maps critical roles, coverage gaps, bench readiness, vacancy risk, ramp time, and development moves for succession and continuity planning. Use for quarterly planning, leadership transitions, key-person risk, or org resilience reviews."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

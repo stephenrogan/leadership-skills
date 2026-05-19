@@ -1,8 +1,8 @@
 ---
 name: team-health-pulse
-description: Synthesizes team health signals from surveys, 1:1 themes, meeting behaviour, workload, attrition indicators, and execution patterns into risks and interventions. Use when morale, trust, psychological safety, workload, or team cohesion may be drifting.
+description: "Synthesizes team health signals from surveys, 1:1 themes, meeting behaviour, workload, attrition indicators, and execution patterns into risks and interventions. Use when morale, trust, psychological safety, workload, or team cohesion may be drifting."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

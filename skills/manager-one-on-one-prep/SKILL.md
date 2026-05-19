@@ -1,8 +1,8 @@
 ---
 name: manager-one-on-one-prep
-description: Prepares a manager for high-quality 1:1s by synthesizing prior notes, commitments, performance signals, blockers, career goals, and coaching questions. Use when planning a direct report 1:1, skip-level, coaching check-in, or follow-up conversation.
+description: "Prepares a manager for high-quality 1:1s by synthesizing prior notes, commitments, performance signals, blockers, career goals, and coaching questions. Use when planning a direct report 1:1, skip-level, coaching check-in, or follow-up conversation."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

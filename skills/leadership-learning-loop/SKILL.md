@@ -1,8 +1,8 @@
 ---
 name: leadership-learning-loop
-description: Runs a leadership learning loop by reviewing decisions, outcomes, missed signals, behaviour patterns, system failures, and commitments for improvement. Use after failed decisions, incidents, missed forecasts, team friction, or monthly leadership retrospectives.
+description: "Runs a leadership learning loop by reviewing decisions, outcomes, missed signals, behaviour patterns, system failures, and commitments for improvement. Use after failed decisions, incidents, missed forecasts, team friction, or monthly leadership retrospectives."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

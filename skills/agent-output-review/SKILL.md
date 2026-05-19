@@ -1,8 +1,8 @@
 ---
 name: agent-output-review
-description: Reviews AI agent outputs for correctness, evidence, completeness, safety, decision boundaries, and usability before a leader relies on them. Use when evaluating reports, drafts, code, research, strategy memos, customer responses, or autonomous agent deliverables.
+description: "Reviews AI agent outputs for correctness, evidence, completeness, safety, decision boundaries, and usability before a leader relies on them. Use when evaluating reports, drafts, code, research, strategy memos, customer responses, or autonomous agent deliverables."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

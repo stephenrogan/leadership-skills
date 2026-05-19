@@ -1,8 +1,8 @@
 ---
 name: agent-improvement-backlog
-description: Converts agent failures, user corrections, eval misses, review notes, and workflow friction into a prioritized improvement backlog. Use when improving agent skills, prompts, tools, memory, evals, or operating procedures over time.
+description: "Converts agent failures, user corrections, eval misses, review notes, and workflow friction into a prioritized improvement backlog. Use when improving agent skills, prompts, tools, memory, evals, or operating procedures over time."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

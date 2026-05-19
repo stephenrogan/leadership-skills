@@ -1,8 +1,8 @@
 ---
 name: change-cascade
-description: Plans how to communicate and operationalize a change through managers and teams, including rationale, audience impact, FAQ, resistance risks, adoption measures, and reinforcement cadence. Use for process, policy, tooling, org, or strategy changes.
+description: "Plans how to communicate and operationalize a change through managers and teams, including rationale, audience impact, FAQ, resistance risks, adoption measures, and reinforcement cadence. Use for process, policy, tooling, org, or strategy changes."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

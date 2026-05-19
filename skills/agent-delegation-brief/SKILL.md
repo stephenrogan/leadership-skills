@@ -1,8 +1,8 @@
 ---
 name: agent-delegation-brief
-description: Turns a leadership task into an agent-ready delegation brief with objective, context, inputs, tools, constraints, acceptance criteria, escalation triggers, and verification plan. Use when assigning work to AI agents, coding agents, research agents, analyst agents, or autonomous workflows.
+description: "Turns a leadership task into an agent-ready delegation brief with objective, context, inputs, tools, constraints, acceptance criteria, escalation triggers, and verification plan. Use when assigning work to AI agents, coding agents, research agents, analyst agents, or autonomous workflows."
 license: MIT
-compatibility: Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows.
+compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

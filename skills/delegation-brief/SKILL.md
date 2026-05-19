@@ -1,8 +1,8 @@
 ---
 name: delegation-brief
-description: Converts fuzzy delegation into a crisp ownership brief with outcome, context, constraints, decision rights, checkpoints, risks, and success criteria. Use when handing work to a direct report, project owner, team lead, or cross-functional partner.
+description: "Converts fuzzy delegation into a crisp ownership brief with outcome, context, constraints, decision rights, checkpoints, risks, and success criteria. Use when handing work to a direct report, project owner, team lead, or cross-functional partner."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

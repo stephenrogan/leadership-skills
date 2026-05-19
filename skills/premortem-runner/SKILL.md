@@ -1,8 +1,8 @@
 ---
 name: premortem-runner
-description: Runs a structured pre-mortem for a plan, initiative, launch, reorg, or strategic bet by imagining failure, identifying causes, leading indicators, mitigations, owners, and pause or kill criteria. Use before committing to meaningful change.
+description: "Runs a structured pre-mortem for a plan, initiative, launch, reorg, or strategic bet by imagining failure, identifying causes, leading indicators, mitigations, owners, and pause or kill criteria. Use before committing to meaningful change."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

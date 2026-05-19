@@ -1,8 +1,8 @@
 ---
 name: executive-update-brief
-description: Creates an executive-ready update brief with headline narrative, evidence, risks, decisions needed, owner asks, and anticipated questions. Use for exec staff updates, QBRs, board prep, steering meetings, or when leaders need concise upward communication.
+description: "Creates an executive-ready update brief with headline narrative, evidence, risks, decisions needed, owner asks, and anticipated questions. Use for exec staff updates, QBRs, board prep, steering meetings, or when leaders need concise upward communication."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"

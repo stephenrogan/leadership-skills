@@ -1,8 +1,8 @@
 ---
 name: feedback-conversation-prep
-description: Turns observed behaviour and impact into a fair, specific feedback conversation plan with evidence, SBI-style framing, likely reactions, and follow-up. Use when a manager needs to give candid feedback, correct behaviour, praise specifically, or prepare a difficult performance conversation.
+description: "Turns observed behaviour and impact into a fair, specific feedback conversation plan with evidence, SBI-style framing, likely reactions, and follow-up. Use when a manager needs to give candid feedback, correct behaviour, praise specifically, or prepare a difficult performance conversation."
 license: MIT
-compatibility: Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics.
+compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
   author: Stephen Rogan
   version: "1.0.0"
