@@ -2,7 +2,7 @@
 
 ## Status
 
-PASS. Local validation, unit tests, and independent QA review completed.
+PASS. Public-readiness upgrade completed locally. Repository validation, unit tests, and deterministic smoke evals pass.
 
 ## Inventory
 
@@ -12,48 +12,13 @@ PASS. Local validation, unit tests, and independent QA review completed.
 - Total eval cases: 128
 - References: 32 `references/framework.md` files
 - Output templates: 32 `assets/output-template.md` files
+- Public examples: 5 flagship examples plus comparison/privacy notes
+- Launch assets: launch kit, demo script, FAQ, system diagram
 
-## Agent Skills Format Checks
-
-- YAML frontmatter present in every `SKILL.md`.
-- `name` exists, is <=64 characters, uses lowercase alphanumeric plus hyphens, and matches the parent directory.
-- `description` exists, is <=1024 characters, and includes trigger/use language.
-- Optional fields standardized: `license`, `compatibility`, `metadata`.
-- Main body stays under 500 lines to respect progressive-disclosure guidance.
-- Each skill has references, assets, and evals.
-
-## Leadership Quality Checks
-
-Every skill includes:
-
-- Overview
-- When to Use
-- Inputs
-- Workflow
-- Output Format
-- Human Decision Boundary
-- Quality Bar
-- Failure Modes
-- References
-
-Each skill is HUMAN+ by design: the agent prepares, synthesizes, drafts, monitors, and structures. The human leader decides, communicates, approves, escalates, makes people/customer commitments, and owns consequences.
-
-## Eval Coverage
-
-Each skill includes four eval cases:
-
-1. Normal realistic workflow prompt.
-2. Second realistic workflow prompt with different phrasing/context.
-3. Safety-boundary prompt where the user asks for an action the agent must not take.
-4. Messy-input prompt testing ambiguity, contradiction, emotion, and missing context.
-
-Each eval includes objective assertions requiring evidence/interpretation separation, usable artifacts, human-owned boundaries, and concrete follow-up.
-
-## Commands Run
+## Commands run
 
 ```bash
-python3 scripts/validate_repo.py
-python3 -m unittest discover -s tests -v
+make qa
 ```
 
 Result:
@@ -61,29 +26,73 @@ Result:
 ```text
 VALIDATION PASSED
 Skills validated: 32
-Ran 2 tests ... OK
+Ran 3 tests ... OK
+SMOKE EVALS PASSED
+Skills checked: 32
+Evals checked: 128
+Failures: 0
 ```
 
-## Independent Review
+## Public-readiness additions
 
-A separate QA reviewer inspected repo structure, representative skills, README, validator, tests, evals, and safety boundaries. Initial verdict was push-ready PASS with recommendations to deepen evals, improve README quickstart, and update this QA report. Those recommendations have been implemented.
+Added:
 
-## Remaining Known Limitations
+- `scripts/run_evals.py` deterministic smoke eval runner
+- stronger `scripts/validate_repo.py` schema and public-readiness checks
+- CI matrix across Python 3.10, 3.11, and 3.12
+- smoke eval artifact upload in GitHub Actions
+- `requirements.txt` and `Makefile`
+- `CONTRIBUTING.md`
+- `SECURITY.md`
+- `CODE_OF_CONDUCT.md`
+- `CHANGELOG.md`
+- PR template and issue templates
+- synthetic examples under `examples/`
+- public launch assets under `launch/`
+- normalized MIT license
+- README rewritten as public landing page and full skill catalog
 
-- The repository includes structured eval definitions and mechanical validation. It does not execute live LLM skill runs because that requires the target agent/client harness.
-- Semantic output quality should be further improved over time using real agent traces and human-graded outputs.
+## Agent Skills format checks
+
+The validator checks:
+
+- YAML frontmatter presence and schema
+- folder/name match
+- lowercase hyphenated names
+- description length and use-trigger language
+- MIT license field
+- Agent Skills compatibility language
+- metadata author, version, tier, role, and cadence
+- required body sections
+- references, assets, and eval files
+- README catalog coverage
+- forbidden unsafe/private phrases
+- public-copy warning phrases inside skills
+- eval types, assertions, boundary coverage, and minimum detail
+
+## Eval coverage
+
+Each skill includes at least four eval cases:
+
+1. Normal realistic workflow prompt
+2. Second realistic workflow prompt with different phrasing/context
+3. Safety-boundary prompt where the user asks for an action the agent must not take
+4. Messy-input prompt testing ambiguity, contradiction, emotion, and missing context
+
+The deterministic smoke runner verifies eval packaging and assertion coverage without requiring model/API secrets. Model-backed evals should be added later by a target client harness.
+
+## Public safety review
+
+Public examples and launch assets are synthetic. No real employer, employee, customer, meeting, transcript, credential, or private commercial data should be added to this repository.
+
+The repo still requires Stephen's explicit approval before changing GitHub visibility from private to public.
+
+## Remaining limitations
+
+- Deterministic smoke evals verify packaging and safety/assertion coverage, not live model output quality.
+- Model-backed semantic evals are still a future upgrade.
+- Public launch copy should be reviewed one final time immediately before visibility changes.
 
 ## Verdict
 
-Ready for private GitHub push.
-
-
-## Mega Manager QA Addition
-
-Added Tier 5 Mega Manager skill set for AI-native management:
-
-- Skills added: 10
-- New total skills: 32
-- New total eval cases: 128
-
-The new layer focuses on managing human-agent systems: workforce architecture, agent delegation, output review, command center visibility, agent performance management, context/memory operations, governance, human-agent teaming, eval design, and continuous improvement backlog.
+Ready for PR review as a public-readiness branch. Do not make public until CI is green on GitHub and Stephen explicitly approves the visibility change.

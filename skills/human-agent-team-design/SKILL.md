@@ -44,7 +44,7 @@ If key inputs are missing, label assumptions and confidence. Do not invent tools
 
 Follow this sequence:
 
-1. Map team workflows into human-only, agent-only, and HUMAN+ modes
+1. Map team workflows into human-only, agent-only, and human-plus modes
 2. Define handoff artifacts and review responsibilities
 3. Design rituals: planning, delegation, review, retro, and improvement backlog
 4. Set norms for transparency: when AI was used, how output was checked, and what remains human-owned
@@ -105,7 +105,7 @@ Stop for explicit approval before granting access, increasing autonomy, sending 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Makes the human-agent operating model more legible, not more magical.
 - Names owner, state, authority, review cadence, and failure response.

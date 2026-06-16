@@ -17,7 +17,7 @@ metadata:
 
 Use this skill to support the leader as **Talent developer**. A calibration packet that improves evidence quality while keeping people judgments human-owned.
 
-This skill is HUMAN+ by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
+This skill is human-led by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
 
 ## When to Use
 
@@ -105,7 +105,7 @@ Stop and ask for explicit approval before sending messages, changing employment 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Separates facts, interpretations, hypotheses, and recommendations.
 - Names uncertainty and missing context instead of hiding it.

@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a packaging, validation, documentation, or skill behavior issue
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What broke or behaved badly?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include commands, skill name, or synthetic prompt. Do not include private data.
+  - type: textarea
+    id: safety
+    attributes:
+      label: Safety/privacy check
+      description: Confirm the report contains no private employer, employee, customer, or secret data.

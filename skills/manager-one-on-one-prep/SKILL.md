@@ -17,7 +17,7 @@ metadata:
 
 Use this skill to support the leader as **Coach and context keeper**. A focused 1:1 agenda, coaching prompts, open-loop list, and follow-up actions that help the manager show up prepared without outsourcing the relationship.
 
-This skill is HUMAN+ by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
+This skill is human-led by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
 
 ## When to Use
 
@@ -105,7 +105,7 @@ Stop and ask for explicit approval before sending messages, changing employment 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Separates facts, interpretations, hypotheses, and recommendations.
 - Names uncertainty and missing context instead of hiding it.
