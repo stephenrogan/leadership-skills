@@ -32,7 +32,7 @@ Each skill is designed to produce a concrete artifact: memo, brief, plan, map, a
 ## What this repo is not
 
 - Not a replacement for managers
-- Not HR, legal, finance, or medical advice
+- Not HR, legal, or finance advice
 - Not permission for agents to send messages, make employment decisions, promise customers, spend money, or publish externally
 - Not a collection of generic leadership slogans
 
