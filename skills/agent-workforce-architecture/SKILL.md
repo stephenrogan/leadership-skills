@@ -25,7 +25,7 @@ Run this skill when:
 
 - Leader wants to scale output with AI agents or AI employees
 - Team is using many tools/agents without a coherent operating model
-- Work needs to be decomposed into human, agent, and HUMAN+ responsibilities
+- Work needs to be decomposed into human, agent, and human-plus responsibilities
 
 Do not use this skill to bypass judgment, accountability, security, privacy, HR, legal, customer approval, or executive decision rights.
 
@@ -45,7 +45,7 @@ If key inputs are missing, label assumptions and confidence. Do not invent tools
 Follow this sequence:
 
 1. Inventory recurring work and classify by judgment, risk, repeatability, and data availability
-2. Assign each work class to human, agent, or HUMAN+ ownership
+2. Assign each work class to human, agent, or human-plus ownership
 3. Define autonomy levels from draft-only to supervised execution to bounded autonomous operation
 4. Specify tool/data access, memory boundaries, and audit logs for each agent role
 5. Create operating cadence, escalation paths, and kill switches
@@ -105,7 +105,7 @@ Stop for explicit approval before granting access, increasing autonomy, sending 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Makes the human-agent operating model more legible, not more magical.
 - Names owner, state, authority, review cadence, and failure response.

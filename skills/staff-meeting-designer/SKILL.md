@@ -1,6 +1,6 @@
 ---
 name: staff-meeting-designer
-description: "Designs a staff or team meeting that prioritizes decisions, risks, and alignment over status theatre. Use when preparing recurring leadership meetings, team meetings, operating reviews, or when a meeting needs to be cut, redesigned, or made decision-oriented."
+description: "Designs a staff or team meeting that prioritizes decisions, risks, and alignment over status reporting. Use when preparing recurring leadership meetings, team meetings, operating reviews, or when a meeting needs to be cut, redesigned, or made decision-oriented."
 license: MIT
 compatibility: "Agent Skills compatible clients. No special tools required; optional file access helps when reading notes, docs, or metrics."
 metadata:
@@ -17,7 +17,7 @@ metadata:
 
 Use this skill to support the leader as **Cadence owner**. A meeting agenda that uses group time only where interaction, conflict, or decision-making is required.
 
-This skill is HUMAN+ by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
+This skill is human-led by design: the agent prepares the work, but the human leader owns judgment, relationship, accountability, and final decisions.
 
 ## When to Use
 
@@ -106,7 +106,7 @@ Stop and ask for explicit approval before sending messages, changing employment 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Separates facts, interpretations, hypotheses, and recommendations.
 - Names uncertainty and missing context instead of hiding it.

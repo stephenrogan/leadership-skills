@@ -8,7 +8,7 @@ A clear operating model for what humans own, what agents own, where handoffs hap
 
 - [ ] Leader wants to scale output with AI agents or AI employees
 - [ ] Team is using many tools/agents without a coherent operating model
-- [ ] Work needs to be decomposed into human, agent, and HUMAN+ responsibilities
+- [ ] Work needs to be decomposed into human, agent, and human-plus responsibilities
 
 ## Input checklist
 

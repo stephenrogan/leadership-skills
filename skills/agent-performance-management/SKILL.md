@@ -105,7 +105,7 @@ Stop for explicit approval before granting access, increasing autonomy, sending 
 
 ## Quality Bar
 
-A world-class output for this skill:
+A strong output for this skill:
 
 - Makes the human-agent operating model more legible, not more magical.
 - Names owner, state, authority, review cadence, and failure response.

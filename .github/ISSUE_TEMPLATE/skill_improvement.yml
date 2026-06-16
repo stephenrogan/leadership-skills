@@ -1,0 +1,32 @@
+name: Skill improvement
+description: Suggest an improvement to a leadership skill, eval, example, or template
+labels: [skill-improvement]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill name
+      placeholder: decision-memo
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Proposed improvement
+      description: What should change?
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Synthetic use case
+      description: Use synthetic or redacted context only.
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Boundary check
+      options:
+        - label: This keeps the human leader responsible for sensitive decisions and external actions.
+          required: true
+        - label: This issue contains no private data or secrets.
+          required: true
