@@ -1,5 +1,18 @@
 # Leadership Skills
 
+## Install
+
+**One-line install (GitHub CLI v2.90+):**
+
+    gh skill install stephenrogan/leadership-skills <skill-name> --agent claude-code
+
+**Or with npx:**
+
+    npx skills add stephenrogan/leadership-skills
+
+**No terminal? No problem:**
+Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately — no setup.
+
 Agent Skills for leaders managing humans, agents, workflows, memory, and governance.
 
 This is not a prompt pack. It is a leadership operating layer: reusable skills that help an agent prepare the messy work around management so the human leader can spend more time on judgment, trust, coaching, influence, and accountability.
