@@ -1,6 +1,6 @@
 ---
 name: agent-delegation-brief
-description: "Turns a leadership task into an agent-ready delegation brief with objective, context, inputs, tools, constraints, acceptance criteria, escalation triggers, and verification plan. Use when assigning work to AI agents, coding agents, research agents, analyst agents, or autonomous workflows."
+description: "Turns a leadership task into an agent-ready delegation brief with objective, context, inputs, tools, constraints, acceptance criteria, escalation triggers, and verification plan. Use when assigning work to AI agents, coding agents, research agents, analyst agents, or complex automated workflows."
 license: MIT
 compatibility: "Agent Skills compatible clients. Optional file, terminal, web, and repository access improve agent-operations workflows."
 metadata:
@@ -127,7 +127,7 @@ Watch for these mistakes:
 ## References
 
 - Agent Skills progressive disclosure principles
-- Anthropic effective agents: simple composable workflows before autonomous agents
+- Composability principle: start with simple workflows before adding complex automation
 - Delegation theory: outcome, constraints, authority, checkpoints
 
 For the shared methodology spine, see `../../docs/SOURCE-SPINE.md`.

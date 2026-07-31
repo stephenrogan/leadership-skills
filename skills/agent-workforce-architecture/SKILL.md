@@ -46,7 +46,7 @@ Follow this sequence:
 
 1. Inventory recurring work and classify by judgment, risk, repeatability, and data availability
 2. Assign each work class to human, agent, or human-plus ownership
-3. Define autonomy levels from draft-only to supervised execution to bounded autonomous operation
+3. Define autonomy levels from draft-only to supervised execution to automated operation
 4. Specify tool/data access, memory boundaries, and audit logs for each agent role
 5. Create operating cadence, escalation paths, and kill switches
 
@@ -126,8 +126,7 @@ Watch for these mistakes:
 
 ## References
 
-- Anthropic: Building effective agents, workflow and agent patterns
-- OpenAI agentic workflow guidance and eval emphasis
+- AI workflow patterns: composability and evaluation principles from leading AI labs
 - Ethan Mollick, Co-Intelligence: human judgment with AI collaboration
 - Microsoft Work Trend Index: AI reshaping knowledge work and management
 

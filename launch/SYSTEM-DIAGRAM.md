@@ -36,4 +36,4 @@ Follow-up loop
   - learning
 ```
 
-The point is not autonomous leadership. The point is better preparation, clearer decisions, safer boundaries, and less drift.
+The point is not automated leadership. The point is better preparation, clearer decisions, safer boundaries, and less drift.
