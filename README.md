@@ -1,5 +1,7 @@
 # Leadership Skills
 
+[![Leadership Skills](https://github.com/stephenrogan/leadership-skills/raw/main/assets/banner.png)](https://github.com/stephenrogan/leadership-skills/blob/main/assets/banner.png)
+
 ## Install
 
 **One-line install (GitHub CLI v2.90+):**
