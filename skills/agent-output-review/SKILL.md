@@ -45,7 +45,7 @@ If key inputs are missing, label assumptions and confidence. Do not invent tools
 Follow this sequence:
 
 1. Compare output against the original brief and acceptance criteria
-2. SepARate supported claims from unsupported claims and accuracy risk
+2. Separate supported claims from unsupported claims and accuracy risk
 3. Check for missing edge cases, unsafe recommendations, and boundary overreach
 4. Score usability: can a busy leader act on this now?
 5. Return accept/revise/reject verdict with specific fixes

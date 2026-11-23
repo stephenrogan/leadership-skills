@@ -13,7 +13,7 @@
     npx skills add stephenrogan/leadership-skills
 
 **No terminal? No problem:**
-Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately — no setup.
+Download any skill folder from `skills/` and upload it to Claude (claude.ai → attach the folder in a conversation, or add it to a Project). Works immediately, no setup.
 
 Agent Skills for leaders managing humans, agents, workflows, memory, and governance.
 
