@@ -243,6 +243,8 @@ Use synthetic data in public examples and issues. If you want to apply a skill t
 
 Do not open issues or PRs with real names, real customer data, private employer context, transcripts, confidential metrics, or secrets.
 
+More from the author at [www.stephenrogan.com](https://www.stephenrogan.com).
+
 ## License
 
 MIT. See `LICENSE`.
